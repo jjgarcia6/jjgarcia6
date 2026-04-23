@@ -29,4 +29,4 @@ Me especializo en diseñar y construir soluciones de software escalables, conect
 * **[Plataforma de Aprendizaje]** - *(En desarrollo)* Una plataforma orientada a modernizar la educación digital a través de rutas de aprendizaje estructuradas y una interfaz de usuario refinada.
 
 ---
-📫 **Cómo contactarme:** [linkedin.com/in/jimmyjavier] | [jimmyjavier@outlook.com]
+
